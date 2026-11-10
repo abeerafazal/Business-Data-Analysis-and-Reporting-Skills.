@@ -1,0 +1,362 @@
+order_id,order_date,region,sales_channel,category,product,units_sold,unit_price,revenue,cost,profit
+ORD1001,2025-04-16,East,Online,Clothing,Jacket,8,80.77,646.16,304,342.16
+ORD1002,2025-11-05,West,Store,Home,Storage Box,2,18.5,41.44,14,27.44
+ORD1003,2025-10-06,West,Store,Beauty,Perfume,3,61.72,185.16,93,92.16
+ORD1004,2025-10-12,South,Store,Beauty,Hair Dryer,5,50.6,253.0,145,108.0
+ORD1005,2025-08-11,East,Store,Electronics,Speaker,6,57.03,342.18,204,138.18
+ORD1006,2025-09-14,East,Online,Clothing,T Shirt,3,19.63,58.89,24,34.89
+ORD1007,2025-03-01,East,Online,Electronics,Speaker,3,57.05,171.15,102,69.15
+ORD1008,2025-02-21,,Online,Beauty,Skincare Set,9,38.48,346.32,144,202.32
+ORD1009,2025-08-18,East,Store,Clothing,T Shirt,1,18.65,18.65,8,10.65
+ORD1010,2025-05-01,West,Online,Clothing,Jeans,4,44.9,179.6,88,91.6
+ORD1011,2025-09-02,East,Store,Home,Storage Box,11,17.06,187.66,77,110.66
+ORD1012,2025-04-07,East,Online,Home,Storage Box,8,17.08,136.64,56,80.64
+ORD1013,2025-06-21,East,Store,Home,Cookware,4,48.85,195.4,108,87.4
+ORD1014,2025-05-09,North,Store,Clothing,Jacket,1,78.93,78.93,38,40.93
+ORD1015,2025-07-21,East,Store,Clothing,Jacket,8,69.35,554.8,304,250.8
+ORD1016,2025-03-23,South,Store,Beauty,Perfume,6,67.84,407.04,186,221.04
+ORD1017,2025-04-25,North,Store,Clothing,Jeans,1,46.32,46.32,22,24.32
+ORD1018,2025-01-02,East,Online,Clothing,Jeans,2,45.51,91.02,44,47.02
+ORD1019,2025-09-15,East,Online,Clothing,T Shirt,6,19.6,117.6,48,69.6
+ORD1020,2025-04-02,East,,Clothing,Jeans,1,50.03,50.03,22,28.03
+ORD1021,2025-06-22,North,Online,Clothing,Jacket,12,80.33,963.96,456,507.96
+ORD1022,2025-08-14,East,Online,Clothing,Jacket,5,77.13,385.65,190,195.65
+ORD1023,2025-04-10,East,Store,Beauty,Perfume,1,62.26,62.26,31,31.26
+ORD1024,2025-03-17,West,Online,Clothing,Jeans,1,50.15,50.15,22,28.15
+ORD1025,2025-11-10,South,Store,Electronics,Speaker,3,57.87,194.44,102,92.44
+ORD1026,2025-09-16,West,Online,Electronics,Speaker,6,57.16,342.96,204,138.96
+ORD1027,2025-02-08,North,Store,Beauty,Skincare Set,10,41.22,412.2,160,252.2
+ORD1028,2025-08-11,North,Online,Electronics,Headphones,4,41.6,166.4,100,66.4
+ORD1029,2025-04-23,West,Online,Electronics,Headphones,1,44.85,44.85,25,19.85
+ORD1030,2025-11-21,West,Online,Clothing,T Shirt,5,19.65,110.04,40,70.04
+ORD1031,2025-05-10,North,Online,Electronics,Headphones,6,46.49,278.94,150,128.94
+ORD1032,2025-08-18,East,Store,Beauty,Perfume,2,62.23,124.46,62,62.46
+ORD1033,2025-02-08,East,Store,Home,Cookware,12,54.43,653.16,324,329.16
+ORD1034,2025-12-05,South,Online,Clothing,Jacket,10,76.14,852.77,380,472.77
+ORD1035,2025-12-07,East,Online,Electronics,Headphones,5,43.09,241.3,125,116.3
+ORD1036,2025-08-25,North,Online,Home,Storage Box,10,18.0,180.0,70,110.0
+ORD1037,2025-04-09,West,Store,Electronics,Keyboard,11,35.0,385.0,198,187.0
+ORD1038,2025-08-07,North,Store,Home,Cookware,12,49.06,588.72,324,264.72
+ORD1039,2025-08-03,North,Online,Beauty,Hair Dryer,10,57.17,571.7,290,281.7
+ORD1040,2025-11-03,South,Online,Beauty,Skincare Set,4,37.21,166.7,64,102.7
+ORD1041,2025-12-13,South,Online,Clothing,T Shirt,3,20.17,67.77,24,43.77
+ORD1042,2025-11-12,West,Store,Home,Storage Box,4,17.71,79.34,28,51.34
+ORD1043,2025-01-09,West,Online,Home,Cookware,7,55.74,390.18,189,201.18
+ORD1044,2025-03-15,East,Store,Clothing,Jacket,2,72.16,144.32,76,68.32
+ORD1045,2025-05-09,East,Online,Home,Storage Box,9,18.69,168.21,63,105.21
+ORD1046,2025-02-18,East,Online,Electronics,Headphones,5,41.87,209.35,125,84.35
+ORD1047,2025-06-12,West,Online,Beauty,Perfume,10,63.01,630.1,310,320.1
+ORD1048,2025-07-05,South,Store,Electronics,Speaker,7,55.59,389.13,238,151.13
+ORD1049,2025-03-18,South,Store,Clothing,Jacket,12,78.44,941.28,456,485.28
+ORD1050,2025-12-24,East,Store,Clothing,Jacket,7,79.68,624.69,266,358.69
+ORD1051,2025-10-07,North,Online,Clothing,Jeans,12,44.21,530.52,264,266.52
+ORD1052,2025-09-20,West,Online,Clothing,Jacket,3,69.73,209.19,114,95.19
+ORD1053,2025-11-18,North,Online,Beauty,Skincare Set,5,42.34,237.1,80,157.1
+ORD1054,2025-03-07,South,Online,Clothing,T Shirt,2,21.39,42.78,16,26.78
+ORD1055,2025-09-06,North,Online,Clothing,T Shirt,9,19.43,174.87,72,102.87
+ORD1056,2025-11-20,East,Online,Clothing,Jeans,3,45.39,152.51,66,86.51
+ORD1057,2025-05-09,North,Store,Beauty,Skincare Set,1,37.84,37.84,16,21.84
+ORD1058,2025-11-19,South,Store,Electronics,Speaker,7,59.9,469.62,238,231.62
+ORD1059,2025-04-23,South,Store,Clothing,Jeans,3,45.3,135.9,66,69.9
+ORD1060,2025-06-03,South,Online,Home,Storage Box,10,18.97,189.7,70,119.7
+ORD1061,2025-10-24,North,Online,Electronics,Keyboard,9,32.87,295.83,162,133.83
+ORD1062,2025-02-14,West,Online,Clothing,T Shirt,3,21.0,63.0,24,39.0
+ORD1063,2025-12-15,West,Online,Electronics,Speaker,5,63.95,358.12,170,188.12
+ORD1064,2025-06-02,East,Store,Clothing,T Shirt,12,21.42,257.04,96,161.04
+ORD1065,2025-01-24,East,Online,Home,Lamp,7,28.7,200.9,84,116.9
+ORD1066,2025-02-24,East,Store,Home,Storage Box,2,18.2,36.4,14,22.4
+ORD1067,2025-01-15,North,Online,Home,Cookware,8,53.2,425.6,216,209.6
+ORD1068,2025-02-01,West,Online,Beauty,Hair Dryer,1,54.09,54.09,29,25.09
+ORD1069,2025-07-11,South,Store,Clothing,Jacket,5,80.49,402.45,190,212.45
+ORD1070,2025-03-09,South,Store,Electronics,Headphones,2,43.16,86.32,50,36.32
+ORD1071,2025-09-10,East,Store,Clothing,Jeans,10,49.18,491.8,220,271.8
+ORD1072,2025-07-12,West,Online,Clothing,T Shirt,1,19.98,19.98,8,11.98
+ORD1073,2025-12-07,East,Online,Clothing,T Shirt,6,20.04,134.67,48,86.67
+ORD1074,2025-08-16,East,Online,Electronics,Headphones,1,48.03,48.03,25,23.03
+ORD1075,2025-07-09,South,Online,Beauty,Skincare Set,2,39.15,78.3,32,46.3
+ORD1076,2025-01-05,West,Store,Beauty,Skincare Set,2,39.17,78.34,32,46.34
+ORD1077,2025-04-02,North,Store,Home,Storage Box,11,17.42,191.62,77,114.62
+ORD1078,2025-05-18,West,Online,Electronics,Keyboard,12,32.48,389.76,216,173.76
+ORD1079,2025-09-17,East,Online,Clothing,Jacket,5,74.75,373.75,190,183.75
+ORD1080,2025-07-18,South,Online,Home,Storage Box,6,18.38,110.28,42,68.28
+ORD1081,2025-07-19,North,Store,Electronics,Keyboard,8,35.8,286.4,144,142.4
+ORD1082,2025-07-14,West,Store,Clothing,Jeans,5,46.49,232.45,110,122.45
+ORD1083,2025-12-03,North,Online,Beauty,Perfume,7,64.89,508.74,217,291.74
+ORD1084,2025-02-24,East,Online,Electronics,Speaker,2,61.82,123.64,68,55.64
+ORD1085,2025-05-14,North,Online,Home,Storage Box,4,16.6,66.4,28,38.4
+ORD1086,2025-01-08,North,Online,Clothing,Jacket,3,76.31,228.93,114,114.93
+ORD1087,2025-06-25,South,Online,Electronics,Keyboard,9,37.43,336.87,162,174.87
+ORD1088,2025-03-10,East,Online,Electronics,Headphones,6,48.31,289.86,150,139.86
+ORD1089,2025-07-14,South,Store,Clothing,Jeans,12,50.25,603.0,264,339.0
+ORD1090,2025-07-02,West,Store,Electronics,Keyboard,1,37.12,37.12,18,19.12
+ORD1091,2025-02-14,North,Online,Home,Lamp,1,30.22,30.22,12,18.22
+ORD1092,2025-09-25,South,Online,Home,Cookware,9,55.21,496.89,243,253.89
+ORD1093,2025-09-08,East,Store,Electronics,Headphones,4,41.77,167.08,100,67.08
+ORD1094,2025-12-18,West,Online,Electronics,Headphones,7,45.78,358.92,175,183.92
+ORD1095,2025-04-20,North,Online,Home,Storage Box,6,17.46,104.76,42,62.76
+ORD1096,2025-11-08,North,Online,Clothing,T Shirt,9,19.15,193.03,72,121.03
+ORD1097,2025-01-06,South,Store,Clothing,Jacket,1,69.41,69.41,38,31.41
+ORD1098,2025-05-06,South,Store,Beauty,Hair Dryer,11,52.35,575.85,319,256.85
+ORD1099,2025-09-07,South,Store,Clothing,T Shirt,2,18.42,36.84,16,20.84
+ORD1100,2025-07-21,North,Online,Beauty,Hair Dryer,4,54.26,217.04,116,101.04
+ORD1101,2025-06-21,West,Store,Home,Storage Box,10,17.23,172.3,70,102.3
+ORD1102,2025-01-21,North,Online,Electronics,Headphones,2,48.27,96.54,50,46.54
+ORD1103,2025-12-06,West,Store,Electronics,Headphones,8,45.66,409.11,200,209.11
+ORD1104,2025-05-13,North,Store,Clothing,T Shirt,1,20.57,20.57,8,12.57
+ORD1105,2025-10-13,West,Online,Electronics,Speaker,3,62.58,187.74,102,85.74
+ORD1106,2025-06-09,South,Store,Electronics,Speaker,2,60.15,120.3,68,52.3
+ORD1107,2025-12-06,North,Store,Clothing,T Shirt,11,19.92,245.41,88,157.41
+ORD1108,2025-12-16,East,Online,Clothing,Jeans,4,47.92,214.68,88,126.68
+ORD1109,2025-06-05,South,Store,Home,Cookware,2,54.33,108.66,54,54.66
+ORD1110,2025-05-13,East,Online,Beauty,Perfume,12,65.56,786.72,372,414.72
+ORD1111,2025-09-08,East,Store,Beauty,Hair Dryer,7,50.85,355.95,203,152.95
+ORD1112,2025-10-18,South,Online,Beauty,Hair Dryer,5,52.5,262.5,145,117.5
+ORD1113,2025-01-25,East,Online,Electronics,Keyboard,3,37.15,111.45,54,57.45
+ORD1114,2025-09-17,North,Store,Beauty,Skincare Set,3,38.76,116.28,48,68.28
+ORD1115,2025-02-21,West,Online,Home,Cookware,1,51.67,51.67,27,24.67
+ORD1116,2025-06-18,East,Online,Clothing,Jeans,1,45.24,45.24,22,23.24
+ORD1117,2025-01-14,North,Online,Beauty,Skincare Set,12,39.61,475.32,192,283.32
+ORD1118,2025-04-23,East,Store,Clothing,T Shirt,12,20.36,244.32,96,148.32
+ORD1119,2025-12-06,North,Store,Home,Cookware,2,50.04,112.09,54,58.09
+ORD1120,2025-02-20,South,Store,Clothing,T Shirt,10,19.52,195.2,80,115.2
+ORD1121,2025-03-20,West,Store,Home,Storage Box,2,16.83,33.66,14,19.66
+ORD1122,2025-04-09,East,Online,Beauty,Skincare Set,5,38.74,193.7,80,113.7
+ORD1123,2025-07-10,South,Store,Electronics,Keyboard,7,37.68,263.76,126,137.76
+ORD1124,2025-11-20,South,Store,Clothing,Jeans,10,49.6,555.52,220,335.52
+ORD1125,2025-01-18,North,Online,Electronics,Speaker,7,58.85,411.95,238,173.95
+ORD1126,2025-05-18,North,Online,Clothing,T Shirt,10,19.85,198.5,80,118.5
+ORD1127,2025-02-07,West,Store,Beauty,Perfume,11,63.72,700.92,341,359.92
+ORD1128,2025-02-01,North,Online,Electronics,Speaker,9,55.72,501.48,306,195.48
+ORD1129,2025-07-13,East,Online,Clothing,Jeans,4,51.57,206.28,88,118.28
+ORD1130,2025-06-20,West,Online,Home,Cookware,5,54.7,273.5,135,138.5
+ORD1131,2025-05-09,East,Store,Electronics,Keyboard,3,33.5,100.5,54,46.5
+ORD1132,2025-05-05,East,Online,Electronics,Speaker,10,61.95,619.5,340,279.5
+ORD1133,2025-01-09,South,Online,Home,Storage Box,8,18.07,144.56,56,88.56
+ORD1134,2025-03-20,North,Online,Clothing,T Shirt,1,19.9,19.9,8,11.9
+ORD1135,2025-09-22,South,Store,Beauty,Perfume,3,60.9,182.7,93,89.7
+ORD1136,2025-11-14,South,Store,Home,Lamp,4,27.82,124.63,48,76.63
+ORD1137,2025-09-21,South,Store,Home,Lamp,11,29.9,328.9,132,196.9
+ORD1138,2025-08-23,West,Online,Electronics,Keyboard,6,34.69,208.14,108,100.14
+ORD1139,2025-12-24,East,Online,Clothing,Jacket,1,77.83,87.17,38,49.17
+ORD1140,2025-05-19,West,Online,Clothing,Jacket,9,79.54,715.86,342,373.86
+ORD1141,2025-11-06,South,Store,Electronics,Speaker,7,59.1,463.34,238,225.34
+ORD1142,2025-08-01,East,Online,Clothing,T Shirt,2,20.19,40.38,16,24.38
+ORD1143,2025-11-23,North,Store,Home,Cookware,7,54.54,427.59,189,238.59
+ORD1144,2025-07-23,West,Online,Clothing,T Shirt,1,19.68,19.68,8,11.68
+ORD1145,2025-09-12,North,Store,Clothing,Jeans,2,46.64,93.28,44,49.28
+ORD1146,2025-03-12,North,Store,Clothing,Jacket,9,80.78,727.02,342,385.02
+ORD1147,2025-10-01,North,Online,Clothing,T Shirt,11,20.08,220.88,88,132.88
+ORD1148,2025-11-24,West,Store,Clothing,Jacket,11,77.04,949.13,418,531.13
+ORD1149,2025-12-03,East,Store,Home,Storage Box,3,17.62,59.2,21,38.2
+ORD1150,2025-11-01,East,Online,Beauty,Perfume,8,66.31,594.14,248,346.14
+ORD1151,2025-11-16,East,Store,Clothing,T Shirt,10,18.97,212.46,80,132.46
+ORD1152,2025-08-22,North,Store,Home,Lamp,10,27.16,271.6,120,151.6
+ORD1153,2025-09-18,North,Store,Home,Lamp,12,30.17,362.04,144,218.04
+ORD1154,2025-02-12,West,Store,Electronics,Speaker,9,59.66,536.94,306,230.94
+ORD1155,2025-12-07,South,Store,Clothing,Jeans,9,48.41,487.97,198,289.97
+ORD1156,2025-01-03,West,Online,Clothing,Jeans,11,47.98,527.78,242,285.78
+ORD1157,2025-06-05,North,Store,Home,Lamp,1,29.15,29.15,12,17.15
+ORD1158,2025-09-01,East,Online,Clothing,Jeans,1,46.15,46.15,22,24.15
+ORD1159,2025-09-07,East,Online,Beauty,Perfume,12,60.96,731.52,372,359.52
+ORD1160,2025-03-25,East,Online,Beauty,Perfume,2,69.03,138.06,62,76.06
+ORD1161,2025-05-21,South,Store,Electronics,Speaker,12,55.58,666.96,408,258.96
+ORD1162,2025-01-19,East,Store,Electronics,Keyboard,4,33.91,135.64,72,63.64
+ORD1163,2025-01-13,East,Store,Clothing,Jeans,5,48.1,240.5,110,130.5
+ORD1164,2025-07-20,East,Store,Electronics,Headphones,1,43.94,43.94,25,18.94
+ORD1165,2025-07-11,North,Store,Clothing,Jacket,9,76.12,685.08,342,343.08
+ORD1166,2025-01-10,West,Online,Beauty,Perfume,10,68.75,687.5,310,377.5
+ORD1167,2025-07-23,West,Online,Electronics,Keyboard,1,35.36,35.36,18,17.36
+ORD1168,2025-02-18,South,Online,Home,Lamp,9,26.71,240.39,108,132.39
+ORD1169,2025-02-14,South,Store,Home,Storage Box,1,18.12,18.12,7,11.12
+ORD1170,2025-12-05,North,Store,Electronics,Speaker,12,55.73,749.01,408,341.01
+ORD1171,2025-11-09,North,Store,Beauty,Perfume,5,63.4,355.04,155,200.04
+ORD1172,2025-10-16,West,Online,Clothing,Jacket,10,80.58,805.8,380,425.8
+ORD1173,2025-12-02,South,Store,Electronics,Headphones,5,43.65,244.44,125,119.44
+ORD1174,2025-01-21,West,Online,Electronics,Headphones,8,47.7,381.6,200,181.6
+ORD1175,2025-02-01,West,Store,Electronics,Speaker,9,56.01,504.09,306,198.09
+ORD1176,2025-10-22,East,Store,Electronics,Headphones,3,48.33,144.99,75,69.99
+ORD1177,2025-05-24,North,Online,Clothing,Jacket,10,71.72,717.2,380,337.2
+ORD1178,2025-04-17,East,Store,Beauty,Skincare Set,10,40.82,408.2,160,248.2
+ORD1179,2025-04-08,South,Online,Clothing,T Shirt,8,18.47,147.76,64,83.76
+ORD1180,2025-07-20,West,Store,Clothing,Jacket,8,73.78,590.24,304,286.24
+ORD1181,2025-10-07,South,Store,Electronics,Speaker,12,63.16,757.92,408,349.92
+ORD1182,2025-01-19,North,Store,Home,Lamp,4,29.19,116.76,48,68.76
+ORD1183,2025-05-21,North,Online,Home,Lamp,7,27.23,190.61,84,106.61
+ORD1184,2025-07-11,West,Online,Home,Cookware,5,52.83,264.15,135,129.15
+ORD1185,2025-05-14,North,Online,Beauty,Hair Dryer,11,50.9,559.9,319,240.9
+ORD1186,2025-09-21,South,Store,Electronics,Keyboard,11,34.46,379.06,198,181.06
+ORD1187,2025-05-02,North,Online,Home,Lamp,12,26.18,314.16,144,170.16
+ORD1188,2025-10-13,East,Store,Home,Storage Box,1,17.1,17.1,7,10.1
+ORD1189,2025-06-25,East,Online,Electronics,Headphones,5,44.51,222.55,125,97.55
+ORD1190,2025-04-06,West,Online,Electronics,Speaker,1,62.92,62.92,34,28.92
+ORD1191,2025-10-08,West,Store,Electronics,Speaker,11,64.13,705.43,374,331.43
+ORD1192,2025-08-06,East,Online,Beauty,Skincare Set,2,43.18,86.36,32,54.36
+ORD1193,2025-05-03,West,Store,Electronics,Keyboard,11,34.55,380.05,198,182.05
+ORD1194,2025-01-03,South,Store,Clothing,T Shirt,10,20.66,206.6,80,126.6
+ORD1195,2025-03-19,West,Store,Electronics,Speaker,7,63.71,445.97,238,207.97
+ORD1196,2025-03-21,West,Store,Home,Storage Box,2,19.2,38.4,14,24.4
+ORD1197,2025-10-04,South,Online,Clothing,T Shirt,9,21.0,189.0,72,117.0
+ORD1198,2025-04-05,South,Online,Beauty,Hair Dryer,10,54.19,541.9,290,251.9
+ORD1199,2025-02-12,East,Online,Electronics,Headphones,9,46.43,417.87,225,192.87
+ORD1200,2025-05-05,North,Store,Clothing,T Shirt,6,19.91,119.46,48,71.46
+ORD1201,2025-08-12,South,Online,Beauty,Perfume,1,60.34,60.34,31,29.34
+ORD1202,2025-08-10,North,Online,Beauty,Hair Dryer,12,51.52,618.24,348,270.24
+ORD1203,2025-08-19,South,Store,Home,Storage Box,10,19.21,192.1,70,122.1
+ORD1204,2025-07-03,West,Online,Beauty,Perfume,9,63.28,569.52,279,290.52
+ORD1205,2025-06-08,East,Online,Home,Lamp,11,29.48,324.28,132,192.28
+ORD1206,2025-09-23,South,Store,Home,Storage Box,10,18.4,184.0,70,114.0
+ORD1207,2025-06-04,North,Online,Beauty,Perfume,6,63.16,378.96,186,192.96
+ORD1208,2025-04-12,South,Store,Electronics,Headphones,2,48.09,96.18,50,46.18
+ORD1209,2025-02-16,West,Store,Home,Lamp,12,26.8,321.6,144,177.6
+ORD1210,2025-11-11,South,Store,Home,Storage Box,8,16.66,149.27,56,93.27
+ORD1211,2025-07-11,West,Online,Electronics,Keyboard,6,35.66,213.96,108,105.96
+ORD1212,2025-09-10,West,Online,Beauty,Hair Dryer,5,53.96,269.8,145,124.8
+ORD1213,2025-09-23,South,Online,Home,Lamp,7,28.54,199.78,84,115.78
+ORD1214,2025-06-02,North,Online,Electronics,Keyboard,8,37.68,301.44,144,157.44
+ORD1215,2025-04-25,East,Online,Home,Lamp,8,26.48,211.84,96,115.84
+ORD1216,2025-01-15,South,Store,Electronics,Keyboard,6,36.9,221.4,108,113.4
+ORD1217,2025-04-14,South,Online,Home,Lamp,7,26.07,182.49,84,98.49
+ORD1218,2025-11-20,North,Store,Clothing,T Shirt,1,19.36,21.68,8,13.68
+ORD1219,2025-03-01,North,Online,Clothing,Jacket,4,74.25,297.0,152,145.0
+ORD1220,2025-08-25,East,Store,Electronics,Headphones,7,46.32,324.24,175,149.24
+ORD1221,2025-09-16,West,Store,Clothing,T Shirt,10,21.27,212.7,80,132.7
+ORD1222,2025-03-21,East,Online,Clothing,T Shirt,11,20.94,230.34,88,142.34
+ORD1223,2025-08-11,South,Store,Home,Storage Box,8,18.54,148.32,56,92.32
+ORD1224,2025-12-08,North,Online,Home,Lamp,8,27.07,242.55,96,146.55
+ORD1225,2025-12-19,West,Online,Clothing,Jacket,5,74.81,418.94,190,228.94
+ORD1226,2025-04-02,South,Online,Home,Cookware,2,53.03,106.06,54,52.06
+ORD1227,2025-12-09,South,Store,Electronics,Speaker,4,55.32,247.83,136,111.83
+ORD1228,2025-08-03,North,Store,Home,Cookware,3,49.54,148.62,81,67.62
+ORD1229,2025-07-20,North,Online,Electronics,Keyboard,3,34.68,104.04,54,50.04
+ORD1230,2025-08-21,East,Online,Clothing,Jacket,10,80.79,807.9,380,427.9
+ORD1231,2025-06-08,West,Online,Beauty,Perfume,3,64.04,192.12,93,99.12
+ORD1232,2025-07-01,North,Online,Clothing,Jeans,5,48.62,243.1,110,133.1
+ORD1233,2025-06-09,West,Store,Clothing,Jeans,6,48.68,292.08,132,160.08
+ORD1234,2025-11-09,South,Store,Home,Lamp,3,26.47,88.94,36,52.94
+ORD1235,2025-03-14,South,Online,Home,Lamp,3,27.62,82.86,36,46.86
+ORD1236,2025-05-08,West,Online,Electronics,Keyboard,9,36.34,327.06,162,165.06
+ORD1237,2025-05-20,South,Online,Clothing,T Shirt,4,20.08,80.32,32,48.32
+ORD1238,2025-07-01,South,Store,Beauty,Perfume,6,64.33,385.98,186,199.98
+ORD1239,2025-08-19,East,Store,Home,Lamp,5,27.25,136.25,60,76.25
+ORD1240,2025-07-20,North,Online,Home,Storage Box,3,18.12,54.36,21,33.36
+ORD1241,2025-12-13,East,Store,Home,Storage Box,9,18.78,189.3,63,126.3
+ORD1242,2025-07-18,South,Online,Electronics,Keyboard,8,37.15,297.2,144,153.2
+ORD1243,2025-10-02,East,Online,Electronics,Keyboard,2,33.56,67.12,36,31.12
+ORD1244,2025-09-17,East,Online,Home,Storage Box,2,18.36,36.72,14,22.72
+ORD1245,2025-03-15,West,Store,Clothing,T Shirt,11,20.64,227.04,88,139.04
+ORD1246,2025-12-04,East,Store,Home,Storage Box,9,18.77,189.2,63,126.2
+ORD1247,2025-10-18,West,Online,Electronics,Keyboard,10,32.3,323.0,180,143.0
+ORD1248,2025-05-05,North,Online,Beauty,Perfume,4,63.16,252.64,124,128.64
+ORD1249,2025-01-16,West,Online,Electronics,Headphones,12,43.12,517.44,300,217.44
+ORD1250,2025-11-03,North,Online,Clothing,Jacket,10,70.0,784.0,380,404.0
+ORD1251,2025-01-03,West,Store,Electronics,Speaker,2,61.53,123.06,68,55.06
+ORD1252,2025-04-24,South,Store,Beauty,Hair Dryer,5,55.89,279.45,145,134.45
+ORD1253,2025-07-24,North,Online,Home,Cookware,2,54.42,108.84,54,54.84
+ORD1254,2025-06-16,North,Online,Electronics,Headphones,1,47.76,47.76,25,22.76
+ORD1255,2025-12-02,West,Online,Home,Cookware,2,49.14,110.07,54,56.07
+ORD1256,2025-07-20,East,Online,Beauty,Perfume,11,62.76,690.36,341,349.36
+ORD1257,2025-06-19,South,Online,Beauty,Perfume,1,64.53,64.53,31,33.53
+ORD1258,2025-02-16,North,Online,Home,Lamp,11,27.83,306.13,132,174.13
+ORD1259,2025-01-14,South,Online,Home,Cookware,3,53.6,160.8,81,79.8
+ORD1260,2025-08-04,East,Store,Electronics,Headphones,3,47.76,143.28,75,68.28
+ORD1261,2025-06-18,West,Online,Beauty,Skincare Set,10,38.55,385.5,160,225.5
+ORD1262,2025-03-12,South,Store,Electronics,Speaker,11,55.97,615.67,374,241.67
+ORD1263,2025-04-24,West,Store,Clothing,T Shirt,9,20.17,181.53,72,109.53
+ORD1264,2025-04-02,North,Online,Electronics,Headphones,12,43.86,526.32,300,226.32
+ORD1265,2025-07-06,West,Store,Electronics,Keyboard,1,33.68,33.68,18,15.68
+ORD1266,2025-07-15,North,Store,Clothing,Jeans,3,46.89,140.67,66,74.67
+ORD1267,2025-10-14,East,Online,Clothing,T Shirt,2,20.55,41.1,16,25.1
+ORD1268,2025-04-16,North,Online,Beauty,Hair Dryer,6,55.77,334.62,174,160.62
+ORD1269,2025-01-25,West,Online,Beauty,Hair Dryer,4,53.06,212.24,116,96.24
+ORD1270,2025-02-15,North,Online,Electronics,Speaker,9,64.11,576.99,306,270.99
+ORD1271,2025-11-04,North,Store,Clothing,Jeans,9,44.19,445.44,198,247.44
+ORD1272,2025-03-21,South,Online,Beauty,Hair Dryer,7,56.26,393.82,203,190.82
+ORD1273,2025-03-07,South,Store,Beauty,Perfume,12,69.96,839.52,372,467.52
+ORD1274,2025-07-13,North,Online,Clothing,T Shirt,7,20.95,146.65,56,90.65
+ORD1275,2025-10-09,North,Store,Clothing,Jacket,12,72.25,867.0,456,411.0
+ORD1276,2025-03-01,North,Online,Home,Storage Box,2,16.95,33.9,14,19.9
+ORD1277,2025-01-10,North,Store,Home,Storage Box,7,17.34,121.38,49,72.38
+ORD1278,2025-10-01,South,Store,Beauty,Hair Dryer,4,55.3,221.2,116,105.2
+ORD1279,2025-02-22,North,Online,Beauty,Hair Dryer,12,54.29,651.48,348,303.48
+ORD1280,2025-03-18,North,Store,Clothing,Jeans,5,45.68,228.4,110,118.4
+ORD1281,2025-02-15,East,Store,Clothing,Jacket,4,71.73,286.92,152,134.92
+ORD1282,2025-04-17,West,Store,Clothing,T Shirt,2,18.54,37.08,16,21.08
+ORD1283,2025-02-18,North,Online,Home,Lamp,8,25.96,207.68,96,111.68
+ORD1284,2025-09-01,North,Online,Electronics,Headphones,6,45.52,273.12,150,123.12
+ORD1285,2025-07-17,South,Store,Beauty,Hair Dryer,6,56.78,340.68,174,166.68
+ORD1286,2025-11-22,North,Online,Electronics,Headphones,5,47.23,264.49,125,139.49
+ORD1287,2025-08-11,South,Online,Beauty,Hair Dryer,11,50.68,557.48,319,238.48
+ORD1288,2025-10-06,North,Store,Beauty,Perfume,9,62.79,565.11,279,286.11
+ORD1289,2025-12-08,East,Online,Clothing,Jeans,11,50.08,616.99,242,374.99
+ORD1290,2025-07-13,South,Online,Electronics,Keyboard,6,32.64,195.84,108,87.84
+ORD1291,2025-08-13,East,Online,Home,Lamp,4,25.95,103.8,48,55.8
+ORD1292,2025-12-18,South,Online,Clothing,Jacket,1,80.66,90.34,38,52.34
+ORD1293,2025-09-23,South,Online,Home,Lamp,1,25.87,25.87,12,13.87
+ORD1294,2025-12-06,East,Online,Home,Cookware,12,52.45,704.93,324,380.93
+ORD1295,2025-04-11,East,Online,Home,Cookware,7,47.92,335.44,189,146.44
+ORD1296,2025-09-13,West,Store,Clothing,Jacket,11,69.62,765.82,418,347.82
+ORD1297,2025-10-03,South,Online,Home,Storage Box,8,17.37,138.96,56,82.96
+ORD1298,2025-02-12,West,Online,Electronics,Headphones,1,44.6,44.6,25,19.6
+ORD1299,2025-03-21,North,Store,Beauty,Skincare Set,10,41.77,417.7,160,257.7
+ORD1300,2025-07-14,West,Store,Clothing,Jeans,12,48.9,586.8,264,322.8
+ORD1301,2025-07-13,West,Store,Beauty,Skincare Set,4,40.4,161.6,64,97.6
+ORD1302,2025-09-11,South,Online,Clothing,Jacket,2,76.76,153.52,76,77.52
+ORD1303,2025-08-20,South,Store,Home,Cookware,8,50.13,401.04,216,185.04
+ORD1304,2025-04-01,South,Online,Home,Cookware,12,50.34,604.08,324,280.08
+ORD1305,2025-12-12,South,Online,Beauty,Perfume,7,61.02,478.4,217,261.4
+ORD1306,2025-08-21,East,Store,Electronics,Headphones,8,47.76,382.08,200,182.08
+ORD1307,2025-08-21,South,Store,Home,Cookware,6,54.55,327.3,162,165.3
+ORD1308,2025-01-23,East,Store,Electronics,Headphones,2,42.58,85.16,50,35.16
+ORD1309,2025-03-25,North,Online,Electronics,Headphones,2,43.12,86.24,50,36.24
+ORD1310,2025-05-21,North,Store,Beauty,Hair Dryer,7,52.33,366.31,203,163.31
+ORD1311,2025-06-09,South,Online,Clothing,Jeans,6,47.29,283.74,132,151.74
+ORD1312,2025-08-04,West,Store,Clothing,Jeans,3,48.33,144.99,66,78.99
+ORD1313,2025-05-18,South,Online,Home,Cookware,6,48.33,289.98,162,127.98
+ORD1314,2025-04-14,South,Store,Beauty,Skincare Set,8,42.38,339.04,128,211.04
+ORD1315,2025-09-09,East,Store,Electronics,Keyboard,1,37.3,37.3,18,19.3
+ORD1316,2025-09-02,West,Store,Electronics,Keyboard,5,36.02,180.1,90,90.1
+ORD1317,2025-11-06,North,Store,Electronics,Headphones,2,42.9,96.1,50,46.1
+ORD1318,2025-09-17,South,Online,Home,Cookware,5,53.61,268.05,135,133.05
+ORD1319,2025-02-13,West,Online,Clothing,T Shirt,10,19.32,193.2,80,113.2
+ORD1320,2025-11-01,East,Online,Electronics,Speaker,5,60.31,337.74,170,167.74
+ORD1321,2025-11-07,West,Store,Beauty,Skincare Set,12,42.71,574.02,192,382.02
+ORD1322,2025-12-23,West,Store,Electronics,Headphones,3,43.36,145.69,75,70.69
+ORD1323,2025-11-24,East,Store,Clothing,T Shirt,8,18.65,167.1,64,103.1
+ORD1324,2025-10-07,North,Store,Beauty,Perfume,4,67.89,271.56,124,147.56
+ORD1325,2025-10-18,South,Store,Electronics,Keyboard,12,37.09,445.08,216,229.08
+ORD1326,2025-10-01,North,Online,Clothing,Jacket,12,79.98,959.76,456,503.76
+ORD1327,2025-07-10,North,Online,Beauty,Skincare Set,4,42.99,171.96,64,107.96
+ORD1328,2025-02-08,East,Store,Home,Storage Box,3,18.64,55.92,21,34.92
+ORD1329,2025-03-20,East,Online,Clothing,Jacket,3,78.56,235.68,114,121.68
+ORD1330,2025-10-19,North,Online,Electronics,Speaker,1,56.24,56.24,34,22.24
+ORD1331,2025-10-22,South,Store,Electronics,Speaker,10,60.74,607.4,340,267.4
+ORD1332,2025-11-20,East,Online,Electronics,Speaker,6,61.49,413.21,204,209.21
+ORD1333,2025-06-05,East,Online,Clothing,Jeans,10,48.99,489.9,220,269.9
+ORD1334,2025-08-23,North,Online,Beauty,Hair Dryer,9,52.98,476.82,261,215.82
+ORD1335,2025-04-03,East,Online,Beauty,Skincare Set,6,39.04,234.24,96,138.24
+ORD1336,2025-06-10,West,Store,Home,Lamp,11,28.18,309.98,132,177.98
+ORD1337,2025-12-18,East,Online,Clothing,T Shirt,6,19.33,129.9,48,81.9
+ORD1338,2025-12-04,South,Online,Beauty,Perfume,12,62.87,844.97,372,472.97
+ORD1339,2025-01-05,North,Online,Clothing,T Shirt,5,20.74,103.7,40,63.7
+ORD1340,2025-10-07,North,Online,Beauty,Perfume,6,61.86,371.16,186,185.16
+ORD1341,2025-07-11,East,Store,Home,Lamp,8,26.51,212.08,96,116.08
+ORD1342,2025-12-06,West,Online,Clothing,Jacket,9,71.02,715.88,342,373.88
+ORD1343,2025-09-25,North,Online,Electronics,Headphones,12,43.79,525.48,300,225.48
+ORD1344,2025-11-22,South,Store,Electronics,Speaker,3,62.65,210.5,102,108.5
+ORD1345,2025-10-17,South,Online,Home,Cookware,9,52.91,476.19,243,233.19
+ORD1346,2025-07-03,East,Store,Home,Cookware,9,55.68,501.12,243,258.12
+ORD1347,2025-11-08,East,Store,Clothing,T Shirt,8,20.64,184.93,64,120.93
+ORD1348,2025-06-05,East,Online,Beauty,Perfume,7,62.67,438.69,217,221.69
+ORD1349,2025-03-08,East,Online,Home,Cookware,3,49.37,148.11,81,67.11
+ORD1350,2025-01-22,West,Online,Beauty,Skincare Set,10,40.71,407.1,160,247.1
+ORD1351,2025-10-10,North,Store,Home,Lamp,10,26.64,266.4,120,146.4
+ORD1352,2025-03-22,North,Store,Electronics,Headphones,8,47.21,377.68,200,177.68
+ORD1353,2025-10-21,East,Online,Home,Storage Box,8,19.37,154.96,56,98.96
+ORD1354,2025-09-15,South,Online,Electronics,Speaker,11,57.56,633.16,374,259.16
+ORD1355,2025-08-09,South,Store,Clothing,T Shirt,9,21.45,193.05,72,121.05
+ORD1356,2025-05-05,East,Online,Clothing,Jacket,2,72.59,145.18,76,69.18
+ORD1357,2025-10-11,East,Online,Electronics,Headphones,10,42.19,421.9,250,171.9
+ORD1358,2025-10-02,West,Online,Home,Cookware,12,48.76,585.12,324,261.12
+ORD1359,2025-03-18,North,Store,Home,Storage Box,10,16.99,169.9,70,99.9
+ORD1360,2025-07-17,East,Online,Beauty,Hair Dryer,10,52.02,520.2,290,230.2
+ORD1006,2025-09-14,East,Online,Clothing,T Shirt,3,19.63,58.89,24,34.89
